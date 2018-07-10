@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat_Function</string>
+    <string name="sent_btn">Sent</string>
+    <string name="hint_edt_txt">Введите сообщение</string>
+</resources>

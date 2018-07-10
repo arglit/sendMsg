@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672657024313",
+    "firebase_url": "https://chatfunction-cab3e.firebaseio.com",
+    "project_id": "chatfunction-cab3e",
+    "storage_bucket": "chatfunction-cab3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672657024313:android:76d2840c321462f4",
+        "android_client_info": {
+          "package_name": "com.argalit.dev.chat_function"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672657024313-6k7hdr2k2onu7urouanej6bgqb0upb52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.argalit.dev.chat_function",
+            "certificate_hash": "74b94d80ec4145ca09698fedbd5991c4ac7343de"
+          }
+        },
+        {
+          "client_id": "672657024313-837sjvephmaop9e5dcsfp0he9khscva3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu252f2L8wF52Fbo17nV54DEaWWW9g3ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672657024313-837sjvephmaop9e5dcsfp0he9khscva3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
